@@ -96,7 +96,7 @@ barplot(dtm_d[1:5,]$freq, las = 2, names.arg = dtm_d[1:5,]$word,
         col ="lightgreen", main ="Top 7 most frequent words",
         ylab = "Word frequencies")
 ```
-![]()
+![](https://github.com/aishwarya42/Sentiment-Analysis/blob/main/freq_word_n.png)
 One could interpret the following from this bar chart:
 •	The most frequently occurring word is “elect”. Also notice that negative words like “not” don’t feature in the bar chart, which indicates there are no negative prefixes to change the context or meaning of the word. ( In short, this indicates most responses don’t mention negative phrases ).
 •	“bjp”, “seat” and “congress” are the next three most frequently occurring words, which indicate that people are likely to be invested in both the ruling party “bjp” and the opposition party “congress” in the coming elections.
