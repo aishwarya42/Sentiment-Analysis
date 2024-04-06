@@ -11,13 +11,13 @@ Text mining is a component of data mining that deals specifically with unstructu
 # What is Sentiment Analysis?
 Sentiment analysis is the process of classifying whether a block of text is positive, negative, or neutral. The goal that Sentiment mining tries to gain is to be analysed people’s opinions in a way that can help businesses expand. It focuses not only on polarity (positive, negative & neutral) but also on emotions (happy, sad, angry, etc.). It uses various Natural Language Processing algorithms such as Rule-based, Automatic, and Hybrid.
 let’s consider a scenario, if we want to analyze whether a product is satisfying customer requirements, or is there a need for this product in the market. We can use sentiment analysis to monitor that product’s reviews. Sentiment analysis is also efficient to use when there is a large set of unstructured data, and we want to classify that data by automatically tagging it. Net Promoter Score (NPS) surveys are used extensively to gain knowledge of how a customer perceives a product or service. Sentiment analysis also gained popularity due to its feature to process large volumes of NPS responses and obtain consistent results quickly.
-Types of sentiment analysis
+## Types of sentiment analysis
 Sentiment analysis systems fall into several different categories:
 •	Fine-grained sentiment analysis breaks down sentiment indicators into more precise categories, such as very positive and very negative. This approach is similar to opinion ratings on a one to five star scale. This approach is therefore effective at grading customer satisfaction surveys.
 •	Emotion detection analysis identifies emotions rather than positivity and negativity. Examples include happiness, frustration, shock, anger and sadness.
 •	Intent-based analysis recognizes motivations behind a text in addition to opinion. For example, an online comment expressing frustration about changing a battery may carry the intent of getting customer service to reach out to resolve the issue.
 •	Aspect-based analysis examines the specific component being positively or negatively mentioned. For example, a customer might review a product saying the battery life was too short. The sentiment analysis system will note that the negative sentiment isn't about the product as a whole but about the battery life.
-How Text Mining works ?
+## How Text Mining works ?
 Information Extraction -> Data Mining -> Natural Language Processing -> Information Retrieval
 •	Information Extraction (IE) – IE is the process of automatically obtaining structured data from unstructured data. This action includes Natural Langauge Processing
 •	Data Mining (DM) – Data Mining looks for patterns in data. It can be more described as the retrieval of hidden information from data. Text-Mining in Data-Mining tools can predict responses and trends of the future. It enables businesses to make positive decisions based on knowledge and answer business questions.
