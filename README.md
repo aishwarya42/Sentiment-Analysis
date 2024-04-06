@@ -162,6 +162,7 @@ Emotion classification is built on the NRC Word-Emotion Association Lexicon (aka
 	d<-get_nrc_sentiment(text)
 head (d,10)
 ```
+https://github.com/aishwarya42/Sentiment-Analysis/blob/main/freq_word_n.png
 The output shows that the fourth line of text has;
 •	One occurrence of words associated with emotions of anger, anticipation, disgust and sadness. 
 •	One occurrence each of words associated with emotion of joy
