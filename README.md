@@ -1,14 +1,14 @@
 # Sentiment-Analysis
-Report on Text Mining and Sentiment Analysis
+ Text Mining and Sentiment Analysis
  “Analysing Political Tweets for the upcoming Lok Sabha Election 2024 using R”
 
-Problem Statement
+# Problem Statement : 
 Conduct sentiment analysis to gauge public opinions on key election-related issues for the year 2024 using tweets related to politics. Analysing the current emotional trend for the ruling party “BJP” among the general public. Identify another impactful party that can alter the public opinion.
 
-What is Text Mining?
+# What is Text Mining?
 Text mining, also known as text data mining, is the process of transforming unstructured text into a structured format to identify meaningful patterns and new insights. You can use text mining to analyze vast collections of textual materials to capture key concepts, trends and hidden relationships.
 Text mining is a component of data mining that deals specifically with unstructured text data. It involves the use of natural language processing (NLP) techniques to extract useful information and insights from large amounts of unstructured text data. Text mining can be used as a preprocessing step for data mining or as a standalone process for specific tasks.
-What is Sentiment Analysis?
+# What is Sentiment Analysis?
 Sentiment analysis is the process of classifying whether a block of text is positive, negative, or neutral. The goal that Sentiment mining tries to gain is to be analysed people’s opinions in a way that can help businesses expand. It focuses not only on polarity (positive, negative & neutral) but also on emotions (happy, sad, angry, etc.). It uses various Natural Language Processing algorithms such as Rule-based, Automatic, and Hybrid.
 let’s consider a scenario, if we want to analyze whether a product is satisfying customer requirements, or is there a need for this product in the market. We can use sentiment analysis to monitor that product’s reviews. Sentiment analysis is also efficient to use when there is a large set of unstructured data, and we want to classify that data by automatically tagging it. Net Promoter Score (NPS) surveys are used extensively to gain knowledge of how a customer perceives a product or service. Sentiment analysis also gained popularity due to its feature to process large volumes of NPS responses and obtain consistent results quickly.
 Types of sentiment analysis
@@ -35,7 +35,7 @@ The following steps are to be followed for Text-Mining Python and Text mining in
 7.	POS tagging  
 8.	Create text corpus  
 9.	Term-Document matrix
-About Dataset
+# About Dataset
 The dataset used for this case study is:
 “Loksabha Election Tweets 2023”
 This dataset compiles a comprehensive collection of tweets related to the Lok Sabha Election in India, scheduled for the year 2024. The dataset encompasses a diverse range of tweets, providing insights into public opinions, sentiments, and discussions surrounding the upcoming political event.
