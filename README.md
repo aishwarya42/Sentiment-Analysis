@@ -109,7 +109,7 @@ wordcloud(words = dtm_d$word, freq = dtm_d$freq, min.freq = 5,
           max.words=100, random.order=FALSE, rot.per=0.40, 
           colors=brewer.pal(8, "Dark2"))
  ```
-![]([https://github.com/aishwarya42/Sentiment-Analysis/blob/main/freq_word_n.png](https://github.com/aishwarya42/Sentiment-Analysis/blob/main/word_cloud_n.png))
+![](https://github.com/aishwarya42/Sentiment-Analysis/blob/main/freq_word_n.png](https://github.com/aishwarya42/Sentiment-Analysis/blob/main/word_cloud_n.png)
 Below is a brief description of the arguments used in the word cloud function;
 •	words – words to be plotted
 •	freq – frequencies of words
