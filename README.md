@@ -180,7 +180,7 @@ rownames(td_new) <- NULL
 td_new2<-td_new[1:8,]
 quickplot(sentiment, data=td_new2, weight=count, geom="bar", fill=sentiment, ylab="count")+ggtitle("Survey sentiments")
 ```
-![](https://github.com/aishwarya42/Sentiment-Analysis/blob/main/freq_word_n.png)
+![](https://github.com/aishwarya42/Sentiment-Analysis/blob/main/sentiment.PNG)
 Next, the following bar chart demonstrates that words associated with the positive emotion of “trust” occurred about five hundred times in the text, whereas words associated with the negative emotion of “surprise” occurred less than 100 times. The negative emotion “anger” occurred 150 times while the positive emotion “joy” occurred more than 150 times. A deeper understanding of the overall emotions occurring in the survey response can be gained by comparing these number as a percentage of the total number of meaningful words.
 ```
 barplot(
